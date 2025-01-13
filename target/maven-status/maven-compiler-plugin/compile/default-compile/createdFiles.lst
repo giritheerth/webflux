@@ -1,0 +1,7 @@
+com/core/webFlux/utils/AppUtils.class
+com/core/webFlux/WebFluxApplication.class
+com/core/webFlux/dto/ProductDto.class
+com/core/webFlux/repository/ProductRepository.class
+com/core/webFlux/entity/Product.class
+com/core/webFlux/controller/ProductController.class
+com/core/webFlux/service/ProductService.class

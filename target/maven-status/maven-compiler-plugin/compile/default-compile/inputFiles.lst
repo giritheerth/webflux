@@ -1,0 +1,7 @@
+/Users/giri/Downloads/springboot-learning/webflux/src/main/java/com/core/webFlux/WebFluxApplication.java
+/Users/giri/Downloads/springboot-learning/webflux/src/main/java/com/core/webFlux/controller/ProductController.java
+/Users/giri/Downloads/springboot-learning/webflux/src/main/java/com/core/webFlux/dto/ProductDto.java
+/Users/giri/Downloads/springboot-learning/webflux/src/main/java/com/core/webFlux/entity/Product.java
+/Users/giri/Downloads/springboot-learning/webflux/src/main/java/com/core/webFlux/repository/ProductRepository.java
+/Users/giri/Downloads/springboot-learning/webflux/src/main/java/com/core/webFlux/service/ProductService.java
+/Users/giri/Downloads/springboot-learning/webflux/src/main/java/com/core/webFlux/utils/AppUtils.java
