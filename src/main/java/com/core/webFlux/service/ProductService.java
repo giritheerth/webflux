@@ -1,7 +1,6 @@
 package com.core.webFlux.service;
 
 import com.core.webFlux.dto.ProductDto;
-import com.core.webFlux.entity.Product;
 import com.core.webFlux.repository.ProductRepository;
 import com.core.webFlux.utils.AppUtils;
 import org.springframework.beans.factory.annotation.Autowired;
